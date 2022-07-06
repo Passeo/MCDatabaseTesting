@@ -1,0 +1,5 @@
+name: PasseoDatabase
+version: '${project.version}'
+main: org.database.mc.passeodatabase.PasseoDatabase
+api-version: 1.18
+authors: [ Passeo ]
